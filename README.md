@@ -6,9 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Hello. I am an developer.\
+💡 &nbsp;Hello. I am a software engineer.\
 🌱 &nbsp;I live in a small town somewhere in the world. \
-💬 &nbsp; am passionated about PHP, NodeJS, ReactJS / React Native and some of the things that I enjoy include: foods, travel, kungfu and photography.
+💬 &nbsp; am passionated about Backend, Web and some of the things that I enjoy include: foods, travel, sleeping and photography.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/Night-Coding.gif" align="right"/>
 
