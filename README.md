@@ -39,6 +39,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+<a href="https://paypal.me/nguyenanhung"><img src="https://img.shields.io/badge/-nguyenanhung-1877F2?style=flat&logo=Paypal&logoColor=white"/></a>
 <a href="https://nguyenanhung.com"><img src="https://img.shields.io/badge/-nguyenanhung.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/nguyenanhung"><img src="https://img.shields.io/badge/-Nguyễn%20An%20Hưng-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dev@nguyenanhung.com"><img src="https://img.shields.io/badge/-dev@nguyenanhung.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
