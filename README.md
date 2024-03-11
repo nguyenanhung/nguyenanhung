@@ -6,9 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Hello. I am a software architect and OWASP member.\
-💻 &nbsp;Currently, I am working as a Technical Leader and Solution Architect at a software company in Hanoi, Vietnam.\
-🌱 &nbsp;I live in a small town somewhere with my families, my wife and my son. \
+💡 &nbsp;Hello. I am a software architect.
+
+💻 &nbsp;Currently, I am working as a Technical Manager at a software company in Hanoi, Vietnam.
+
+🌱 &nbsp;I live in a small town somewhere with my families, my wife and my son.
+
 💬 &nbsp; am passionated about Backend, Web, Security, Contribute Opensource and some of the things that I enjoy include: foods, travel, sleeping and photography.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/Night-Coding.gif" align="right"/>
