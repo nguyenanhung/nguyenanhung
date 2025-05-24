@@ -1,4 +1,4 @@
-![Hung Nguyen Banner](https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/banner-2022.png)
+![Hung Nguyen Banner](https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/banner-2025.png)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>
 Hey there! I'm Nguyen An Hung</h2>
@@ -7,9 +7,9 @@ Hey there! I'm Nguyen An Hung</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Hello. I am a software architect.
+💡 &nbsp;Hello. I'm an Open Source Enthusiast.
 
-💻 &nbsp;Currently, I am working as a Technical Manager at a software company in Hanoi, Vietnam.
+💻 &nbsp;I currently serve as a Senior Technical Manager at a major software company located in Hanoi, Vietnam. My expertise spans Blockchain, Fintech, Ecommerce Tech, Edtech, Cloud, DevOps, and Project Management, with a focus on Technical Strategy Leadership.
 
 🌱 &nbsp;I live in a small town somewhere with my families, my wife and my son.
 
