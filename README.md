@@ -1,4 +1,4 @@
-![Hung Nguyen Banner](https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/banner-2025.png)
+![Hung Nguyen Banner](https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/refs/heads/main/assets/banner-2025.png)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>
 Hey there! I'm Nguyen An Hung</h2>
