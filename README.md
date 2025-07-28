@@ -54,7 +54,7 @@ foods, travel, sleeping and photography.
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)&nbsp;
-![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains&logoColor=007ACC)&nbsp;
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)&nbsp;
