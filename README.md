@@ -58,6 +58,8 @@ foods, travel, sleeping and photography.
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)&nbsp;
+![ArgoCD](https://img.shields.io/badge/ArgoCD-D24939?logo=argo&logoColor=EF7B4D)&nbsp;
+![FluxCD](https://img.shields.io/badge/FluxCD-D24939?logo=flux&logoColor=5468FF)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
 
