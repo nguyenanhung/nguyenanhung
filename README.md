@@ -44,9 +44,9 @@ foods, travel, sleeping and photography.
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/kafka-%23black.svg?style=flat&logo=apachekafka&logoColor=231F20)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)&nbsp;
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white)
-&nbsp;
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white)&nbsp;
 ![SA&DevOps](https://img.shields.io/badge/-SA&DevOps-05122A?style=flat&logo=devops)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)&nbsp;
