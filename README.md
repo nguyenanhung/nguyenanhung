@@ -21,7 +21,7 @@ foods, travel, sleeping and photography.
 ### 🛠 &nbsp;Tech Stack
 
 ![OWASP](https://img.shields.io/badge/Foudation-OWASP-red?style=flat)&nbsp;
-![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)&nbsp;
+![AWS Cloud](https://img.shields.io/badge/aws-Amazon%20Web%20Services-orange)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)&nbsp;
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 &nbsp;
