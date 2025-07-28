@@ -20,11 +20,10 @@ foods, travel, sleeping and photography.
 
 ### 🛠 &nbsp;Tech Stack
 
-![OWASP](https://img.shields.io/badge/Foudation-OWASP-red?style=flat)&nbsp;
+![OWASP](https://img.shields.io/badge/OWASP%20Foundation-233e81?style=flat&logo=owasp)&nbsp;
 ![AWS Cloud](https://img.shields.io/badge/aws-Amazon%20Web%20Services-orange)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)&nbsp;
-![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
-&nbsp;
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)&nbsp;
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)&nbsp;
