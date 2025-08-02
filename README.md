@@ -13,7 +13,7 @@ Hey there! I'm Nguyen An Hung</h2>
 
 🌱 &nbsp;I live in a small town somewhere with my families, my wife and my son.
 
-💬 &nbsp; am passionated about Backend, Web, Security, Contribute Opensource and some of the things that I enjoy include:
+💬 &nbsp; i'm passionated about Backend, Web, Security, Contribute Opensource and some of the things that I enjoy include:
 foods, travel, sleeping and photography.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/Night-Coding.gif" align="right"/>
